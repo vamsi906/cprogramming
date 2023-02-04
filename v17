@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{int a;
+ int b;
+ printf("enter a");
+ scanf("%d",&a);
+ printf("enter b");
+ scanf("%d",&b);
+ int c=a+b;
+ int d=a*b;
+printf("%d"    "%d",c,d);
+printf("  ");
+return 0;
+}
